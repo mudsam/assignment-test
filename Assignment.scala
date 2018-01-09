@@ -1,7 +1,7 @@
 object Assignment {
-/*** No changes below this line ***/
+/*** No changes above this line ***/
   def main(args: Seq[String]): Unit = {
     println(args)
   }
-/*** No changes above this line ***/
+/*** No changes below this line ***/
 }
